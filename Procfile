@@ -1,1 +1,1 @@
-worker: exec sh -c 'wssh --port=80'
+web: wssh --port=$PORT --redirect=False
