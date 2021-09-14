@@ -14,7 +14,8 @@
     1. Идем в меню *Settings*
       1. В пункте `Buildpacks` добавляем
         + `heroku/python` 
-        + `https://github.com/heroku/heroku-buildpack-apt`
+        + `https://github.com/heroku/heroku-buildpack-apt`\
+\
     1. Идем в меню *Deploy* ![repo connection](images/repo_connect.png)
       1. Кликаем на подключение через GitHub
       1. Ищем имя fork'нутого репозитория
